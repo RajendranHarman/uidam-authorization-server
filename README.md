@@ -11,8 +11,7 @@ This component provides capability of Identity and Access Management Services to
 services are properly authenticated and authorized before accessing any exposed APIs in the system. It ensures that proper Role Based Access policies are in place and each user/machine are able to access only the authorized features for which they have respective privileges in the system using OAuth 2.1 and OpenID Connect 1.0 specifications.
 
 It handles IDAM(Identity and Access Management) use cases like token generation by different grant types like
-client credentials, authorization code, refresh token, adding custom claims to tokens, token revocation, token introspection, 
-password recovery, email verification, login services, sign-up services, etc.
+client credentials, authorization code, refresh token, adding custom claims to tokens, token revocation, token introspection, password recovery, email verification, login services, sign-up services, etc.
 
 
 # Table of Contents
